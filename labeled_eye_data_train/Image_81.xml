@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Image_81.jpg</filename>
+	<path>/my-project-name/Image_81.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pupil</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1366</xmin>
+			<ymin>1561</ymin>
+			<xmax>1769</xmax>
+			<ymax>1964</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>iris</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>791</ymin>
+			<xmax>2685</xmax>
+			<ymax>2713</ymax>
+		</bndbox>
+	</object>
+</annotation>
