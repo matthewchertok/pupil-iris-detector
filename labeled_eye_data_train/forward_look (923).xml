@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>forward_look (923).png</filename>
+	<path>/my-project-name/forward_look (923).png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>126</width>
+		<height>126</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pupil</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>61</ymin>
+			<xmax>65</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>iris</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>52</ymin>
+			<xmax>77</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>
